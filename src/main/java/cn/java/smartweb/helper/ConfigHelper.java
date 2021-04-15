@@ -1,5 +1,6 @@
-package cn.java.smartweb;
+package cn.java.smartweb.helper;
 
+import cn.java.smartweb.ConfigConstant;
 import cn.java.smartweb.util.PropsUtil;
 
 import java.util.Properties;

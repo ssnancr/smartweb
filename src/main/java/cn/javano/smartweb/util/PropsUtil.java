@@ -1,4 +1,4 @@
-package cn.java.smartweb.util;
+package cn.javano.smartweb.util;
 
 
 import org.slf4j.Logger;

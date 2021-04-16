@@ -1,4 +1,4 @@
-package cn.java.smartweb;
+package cn.javano.smartweb;
 
 /**
  * @author: wangjie19558

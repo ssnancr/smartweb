@@ -1,6 +1,6 @@
 package cn.javano.smartweb.helper;
 
-import cn.javano.smartweb.ConfigConstant;
+import cn.javano.smartweb.common.ConfigConstant;
 import cn.javano.smartweb.util.PropsUtil;
 
 import java.util.Properties;
